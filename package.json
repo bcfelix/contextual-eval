@@ -1,0 +1,20 @@
+{
+  "name": "contextual-eval",
+  "version": "1.0.0",
+  "description": "Contextual evaluation in JavaScript",
+  "author": "Felix Lau <blackcatfelix@hotmail.com>",
+  "main": "contextual-eval",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/bcfelix/contextual-eval"
+  },
+  "bugs": {
+    "url": "https://github.com/bcfelix/contextual-eval/issues"
+  },
+  "keywords": [
+    "javascript",
+    "context",
+    "eval"
+  ],
+  "license": "MIT"
+}
